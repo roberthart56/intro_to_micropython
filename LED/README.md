@@ -4,6 +4,12 @@ Light emitting Diode.  Turns energy of charges into light.  It matters which way
 
 Resistor.  Turns energy of charges into heat. It works in either orientation.
 
+
+![fig1](./led_circuit.png)
+![fig2](./led_physical.jpg)
+
+
+
 <figure>
   <img src="./led_circuit.png" width="400" alt="my alt text"/>
   <figcaption>LED equivalent circuit.</figcaption>
