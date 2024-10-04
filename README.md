@@ -16,3 +16,4 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 
 [Spreadsheet inventory for workshops](https://docs.google.com/spreadsheets/d/1ea21Ol0HnfFcnW5KguXi43tg_k-Ri7uJ2SghusxsvjQ/edit?usp=sharing)
 
+[Breadboard tutorial from Sparkfun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
