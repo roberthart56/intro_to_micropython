@@ -6,6 +6,6 @@ Resistor.  Turns energy of charges into heat. It works in either orientation.
 
 
 <figure>
-  <img src="./led_physical.jpg" alt="my alt text"/>
+  <img src="./led_physical.jpg" width="400" alt="my alt text"/>
   <figcaption>This is my caption text.</figcaption>
 </figure>
