@@ -1,6 +1,8 @@
 # intro_to_micropython
 Introduction to micropython on the RP2040 and ESP32, particularly the xiao modules.
 
+![xiao2040](./images/xiao_rp2040.svg)
+
 
 [link to simple Micropython examples](https://ionian-specialist-1bb.notion.site/Simple-examples-using-XIAO-modules-and-Micropython-fdc9b43a77ea43ea92c72b8b70e38cb5)
 
