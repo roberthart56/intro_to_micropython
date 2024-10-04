@@ -1,9 +1,8 @@
 # intro_to_micropython
 Introduction to micropython on the RP2040 and ESP32, particularly the xiao modules.
 
-![xiao2040](./images/xiao_rp2040.svg)
 <figure>
-  <img src="./images/images/xiao_rp2040.svg" width="400" alt="my alt text"/>
+  <img src="./images/xiao_rp2040.svg" width="400" alt="rp2040"/>
   <figcaption>xiao RP2040 pins</figcaption>
 </figure>
 
