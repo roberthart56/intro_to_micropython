@@ -1,11 +1,15 @@
 # intro_to_micropython
-Introduction to micropython on the RP2040 and ESP32, particularly the xiao modules.  Pin names for Micropython are show in the figure below:
+Introduction to micropython on the RP2040 and ESP32, particularly the xiao modules.  Pin names for using Micropython on the RP2040 module are show in the figure below:
 
 <figure>
   <img src="./images/xiao_rp2040.svg" width="300" alt="rp2040"/>
  </figure>
 
-
+lkjlkj
+ - lkj
+ - lklkj
+ - lkjlkj
+ - 
 
 [link to simple Micropython examples](https://ionian-specialist-1bb.notion.site/Simple-examples-using-XIAO-modules-and-Micropython-fdc9b43a77ea43ea92c72b8b70e38cb5)
 
