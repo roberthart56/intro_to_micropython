@@ -5,10 +5,14 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
   <img src="./images/xiao_rp2040.svg" width="300" alt="rp2040"/>
  </figure>
 
-Click on folders above for diagrams and code examples for:
+Folders above have diagrams and code examples for:
  - [LED](./LED) (output device) 
- - lklkj
- - lkjlkj
+ - button (input device)
+ - connecting microcontroller and computer
+ - motor (output device)
+ - Buzzer for sound (output device)
+ - light sensor (input)
+ - other sensors (input based on magnetic field, knob turning)
  - 
 
 [link to simple Micropython examples](https://ionian-specialist-1bb.notion.site/Simple-examples-using-XIAO-modules-and-Micropython-fdc9b43a77ea43ea92c72b8b70e38cb5)
