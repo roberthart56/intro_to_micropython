@@ -6,7 +6,7 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
  </figure>
 
 Click on folders above for diagrams and code examples for:
- - [LED](../LED) (output device) 
+ - [LED](./LED) (output device) 
  - lklkj
  - lkjlkj
  - 
