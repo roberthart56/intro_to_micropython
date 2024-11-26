@@ -25,3 +25,8 @@ Folders above have diagrams and code examples for:
 [Spreadsheet inventory for workshops](https://docs.google.com/spreadsheets/d/1ea21Ol0HnfFcnW5KguXi43tg_k-Ri7uJ2SghusxsvjQ/edit?usp=sharing)
 
 [Breadboard tutorial from Sparkfun](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+
+<figure>
+  <img src="./images/breadboard.jpg" width="300" alt="rp2040"/>
+ </figure>
+
