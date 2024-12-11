@@ -1,13 +1,17 @@
+#code suggested by Chat GPT, and modified to work by R. Hart, 2024.
+#blinks the RGB LED on the XIAO RP2040 board.
+
 import machine
 import neopixel
 import time
 
-# Define the GPIO pin connected to the onboard RGB LED (D7 or GPIO25 for Xiao RP2040)
+
 LED_PIN = 12  # Check the Xiao RP2040 pinout to confirm
 NUM_PIXELS = 1  # There's only one onboard RGB LED
 
-power = machine.Pin(11,machine.Pin.OUT)
+power = machine.Pin(11,machine.Pin.OUT)  #This provides power for the RGB LED.
 power.value(1)
+
 # Initialize the NeoPixel object
 np = neopixel.NeoPixel(machine.Pin(LED_PIN), NUM_PIXELS)
 
