@@ -15,7 +15,8 @@ sleep(0.5)
 
 
 for i in range(Num_pix):
-    pixels[i] = (50+i,i,i)  
+    pixels[i] = (30-i,i,0)
+    
 pixels.write()
 
 
