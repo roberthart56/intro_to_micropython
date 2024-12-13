@@ -2,9 +2,10 @@
 
 Motor control is one of the best things to do with microcontrollers, but it requires a bit more electronics than just connecting to a microcontroller pin, as you would an LED.  Why?
  
-- kjh
-- oiu 
-- lkj	
+- Most motors require more current than microcontroller pins can provide.
+- Usually, you want to drive motors in both directions.
+- When motors are stopped, they can generate big voltages (think sparks) that can damage electronics.
+- 
 
 <br><br>
 
