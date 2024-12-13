@@ -15,7 +15,7 @@ Two pins of the sensor are attached to ground and to 3.3V.  The voltage of the t
 
 <figure>
   <img src="./images/mag_side_pic.jpg" width="400" alt="my alt text"/>
-  <figcaption>Phototransistor - long pin toward lower voltage..</figcaption>
+  <figcaption>Hall sensor, side view.</figcaption>
 </figure>
 
 
@@ -23,6 +23,6 @@ Two pins of the sensor are attached to ground and to 3.3V.  The voltage of the t
 
 <figure>
   <img src="./images/mag_top_pic.jpg" width="400" alt="my alt text"/>
-  <figcaption>Phototransistor on breadboard attached to a pin of a microcontroller module.</figcaption>
+  <figcaption>Hall sensor on a breadboard attached to a pin of a microcontroller module. Top view. </figcaption>
 </figure>
 
