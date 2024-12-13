@@ -1,4 +1,4 @@
-# Input Device:  Button.
+# Input Device to measure temperature:  Thermistor.
 
 A thermistor is a temperature-dependent resistor.  It is attached in series to another resistor, a configuration called a voltage divider.  When its temperature changes, the voltage between the two resistors changes.
 
