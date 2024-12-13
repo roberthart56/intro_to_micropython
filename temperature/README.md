@@ -15,7 +15,7 @@ ADC.
 <br><br>
 
 <figure>
-  <img src="./images/temperature_circuit.jpg" width="400" alt="my alt text"/>
+  <img src="./images/thermistor_pic.jpg" width="400" alt="my alt text"/>
   <figcaption>Button on breadboard attached to a pin of a microcontroller module.</figcaption>
 </figure>
 
