@@ -9,13 +9,13 @@ ADC.
 
 <figure>
   <img src="./images/temperature_circuit.jpg" width="400" alt="my alt text"/>
-  <figcaption>Button circuit.</figcaption>
+  <figcaption>Thermistor circuit.</figcaption>
 </figure>
 
 <br><br>
 
 <figure>
   <img src="./images/thermistor_pic.jpg" width="400" alt="my alt text"/>
-  <figcaption>Button on breadboard attached to a pin of a microcontroller module.</figcaption>
+  <figcaption>Thermistor circuit on a breadboard attached to a pin of a microcontroller module.</figcaption>
 </figure>
 
