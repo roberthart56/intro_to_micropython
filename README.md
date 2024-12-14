@@ -17,7 +17,7 @@ Folders above have diagrams and code examples for:
 
 [link to simple Micropython examples](https://ionian-specialist-1bb.notion.site/Simple-examples-using-XIAO-modules-and-Micropython-fdc9b43a77ea43ea92c72b8b70e38cb5)
 
-
+link to micropython reference.
 
 [Intro to electronics.](https://roberthart56.github.io/SCFAB/SC_lab/Electronics/electronics_basics/electronic_basics.html)
 

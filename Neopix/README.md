@@ -9,7 +9,7 @@ The Neopixel strips are powered by the 5V pin on the microcontroller.  If more c
 
 <figure>
   <img src="./images/neopix_circuit.jpg" width="400" alt="my alt text"/>
-  <figcaption>LED equivalent circuit.</figcaption>
+  <figcaption>Neopixel strip wires.</figcaption>
 </figure>
 
 <br><br>
