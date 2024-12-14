@@ -1,4 +1,4 @@
-from servo import Servo
+from servo import Servo   #requires that you load servo.py into the microcontroller memory so that its functions can be imported.
 import time
 
 sg90_servo = Servo(pin=4)  #To be changed according to the pin used
