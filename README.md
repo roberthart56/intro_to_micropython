@@ -7,7 +7,7 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 
 [tpz machine](https://youtube.com/shorts/zAHvqE1cNsE?feature=share)
 
-###Folders above have diagrams and code examples for:
+### Folders above have diagrams and code examples for:
 
 * Input devices
     * button
@@ -34,12 +34,13 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 * copying code into Thonny and onto the device.
 
 ### Resources for learning
-* This repository.  [Spreadsheet inventory for workshops.](https://docs.google.com/spreadsheets/d/1ea21Ol0HnfFcnW5KguXi43tg_k-Ri7uJ2SghusxsvjQ/edit?usp=sharing)
-* 
+* This repository. 
 * [Rob's Intro to electronics.](https://roberthart56.github.io/SCFAB/SC_lab/Electronics/electronics_basics/electronic_basics.html)
-* Adafruit, Sparkfun, AI tools such as ChatGPT.
+* Tutorials and other resources as Adafruit.com, Sparkfun.com
+* AI tools such as ChatGPT.
 * [Micropython reference.](https://docs.micropython.org/en/latest/rp2/quickref.html)
 * email Rob Hart at roberthart56@gmail.com
+* [Spreadsheet inventory for the kit](https://docs.google.com/spreadsheets/d/1ea21Ol0HnfFcnW5KguXi43tg_k-Ri7uJ2SghusxsvjQ/edit?usp=sharing), in case you want to order parts for yourself.
 
 ### How does a breadboard work?
 
@@ -48,4 +49,21 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 <figure>
   <img src="./images/breadboard.jpg" width="300" alt="rp2040"/>
  </figure>
+
+### What about the ESP32?
+
+<figure>
+  <img src="./images/esp32.svg" width="300" alt="rp2040"/>
+ </figure>
+
+
+Included in the kit are a couple of ESP32C3 xiao modules.  These modules are loaded with the Micropython firmware and can be used in the same way as the rp2040 modules.  They have the ability to connect to wireless networks, to access the internet and other devices on the network, as well as the ability to communicate directly with another ESP32.  There are no examples in this repository yet, but you will find many examples on the internet, and many good tutorials.  
+
+[A few more words about](https://haystack-mtn.notion.site/Setting-up-simple-microcontroller-projects-Example-button-and-simple-LED-with-LiPo-battery-6196a7c8585649d7b8a7133133e4cf9e)
+
+[Tutorial for installing micropython on a fresh ESP32](https://wiki.seeedstudio.com/XIAO_ESP32C3_MicroPython/)
+
+
+
+
 
