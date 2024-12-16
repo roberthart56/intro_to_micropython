@@ -5,6 +5,8 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
   <img src="./images/xiao_rp2040.svg" width="300" alt="rp2040"/>
  </figure>
 
+[tpz machine](https://youtube.com/shorts/zAHvqE1cNsE?feature=share)
+
 Folders above have diagrams and code examples for:
 * Input devices
     * llkj

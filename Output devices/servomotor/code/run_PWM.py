@@ -1,7 +1,7 @@
 from machine import Pin,PWM
 from time import sleep
 
-signal = PWM(Pin(2, mode=Pin.OUT))
+signal = PWM(Pin(4, mode=Pin.OUT))
 signal.freq(50)
 
 # 0.5ms/20ms = 0.025 = 2.5% duty cycle

@@ -6,9 +6,9 @@
 from machine import Pin
 import time
 
-led = Pin(0, Pin.OUT)   # create an input pin on pin #1, no pull up resistor
+led = Pin(1, Pin.OUT)   # create an input pin on pin #1, no pull up resistor
 
-button = Pin(1, Pin.IN, Pin.PULL_UP)
+button = Pin(3, Pin.IN, Pin.PULL_UP)
 
 
 

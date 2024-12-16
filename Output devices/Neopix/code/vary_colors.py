@@ -5,7 +5,7 @@ from time import sleep
 
 Num_pix = 30
 
-pixels = NeoPixel(machine.Pin(2), Num_pix)  #set up Pixel array
+pixels = NeoPixel(machine.Pin(1), Num_pix)  #set up Pixel array
 
 for i in range(Num_pix):
     pixels[i] = (0,0,0)  

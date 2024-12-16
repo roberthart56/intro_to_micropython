@@ -6,7 +6,7 @@
 from machine import Pin
 import utime
 
-buzz = Pin(0, Pin.OUT)   # create an input pin on pin #1, no pull up resistor
+buzz = Pin(3, Pin.OUT)   # create an input pin on pin #1, no pull up resistor
 
 while True:
     for i in range(1000):

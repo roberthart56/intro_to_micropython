@@ -1,9 +1,9 @@
 from machine import Pin,PWM
 from time import sleep_us
 
-signal = Pin(2, mode=Pin.OUT)
+signal = Pin(4, mode=Pin.OUT)
 
-on_time = 500 #0.5 milliseconds min, 2.4 ms max.
+on_time = 1000 #0.5 milliseconds min, 2.4 ms max.
 off_time = 20000 - on_time
 
 while True:
