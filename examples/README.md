@@ -1,7 +1,7 @@
 # intro_to_micropython
 
 <figure>
-  <img src="./images/xiao_rp2040.svg" width="300" alt="rp2040"/>
+  <img src="../images/xiao_rp2040.svg" width="300" alt="rp2040"/>
  </figure>
 
 [tpz machine](https://youtube.com/shorts/zAHvqE1cNsE?feature=share)
