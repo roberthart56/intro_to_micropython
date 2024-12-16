@@ -59,7 +59,7 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 
 Included in the kit are a couple of ESP32C3 xiao modules.  These modules are loaded with the Micropython firmware and can be used in the same way as the rp2040 modules.  They have the ability to connect to wireless networks, to access the internet and other devices on the network, as well as the ability to communicate directly with another ESP32.  There are no examples in this repository yet, but you will find many examples on the internet, and many good tutorials.  
 
-[A few more words about](https://haystack-mtn.notion.site/Setting-up-simple-microcontroller-projects-Example-button-and-simple-LED-with-LiPo-battery-6196a7c8585649d7b8a7133133e4cf9e)
+[A few more words about xiao modules and micropython](https://haystack-mtn.notion.site/Setting-up-simple-microcontroller-projects-Example-button-and-simple-LED-with-LiPo-battery-6196a7c8585649d7b8a7133133e4cf9e)
 
 [Tutorial for installing micropython on a fresh ESP32](https://wiki.seeedstudio.com/XIAO_ESP32C3_MicroPython/)
 
