@@ -5,7 +5,6 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
   <img src="./images/xiao_rp2040.svg" width="300" alt="rp2040"/>
  </figure>
 
-[tpz machine](https://youtube.com/shorts/zAHvqE1cNsE?feature=share)
 
 ### Folders above have diagrams and code examples for:
 
@@ -29,9 +28,12 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 
 
 ### Simple instructions for using Thonny to program.
-* Run code on Thonny from device.  Save to the device and/or to computer.
+* Connect your device to Thonny.
+* Put code in Thonny window.
+* Edit as needed.
+* Run code on the device using green arrow.
 * Save code as main.py to run on reset.
-* copying code into Thonny and onto the device.
+* Save or open code on the computer.
 
 ### Resources for learning
 * This repository. 
