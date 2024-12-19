@@ -30,14 +30,18 @@ Here is one way to use the thermistor to make a practical thermometer that can b
   <figcaption>Thermistor soldered.</figcaption>
 </figure>
 
+<br><br>
+
 Cover the leads in heat shrink tubing to protect from shorting together.
-<br>
+
+
 
 <figure>
   <img src="./images/Th_shrink.jpg" width="400" alt="my alt text"/>
   <figcaption>Thermistor leads with shrink tube.</figcaption>
 </figure>
-<br>
+
+<br><br>
 
 Encase the first few cm in more shrink tube, and seal the bead with epoxy to keep water out.
 
