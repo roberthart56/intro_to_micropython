@@ -21,7 +21,9 @@ The voltage at the middle of the voltage divider is read by one of the microcont
 </figure>
 
 
-### Here is one way to use the thermistor to make a practical thermometer that can be put in water.  First, solder wire leads to the thermistor wires.
+### Measuring temperature.
+
+Here is one way to use the thermistor to make a practical thermometer that can be put in water.  First, solder wire leads to the thermistor wires.
 
 <figure>
   <img src="./images/Th_solder.jpg" width="400" alt="my alt text"/>
@@ -29,11 +31,13 @@ The voltage at the middle of the voltage divider is read by one of the microcont
 </figure>
 
 Cover the leads in heat shrink tubing to protect from shorting together.
+<br>
 
 <figure>
   <img src="./images/Th_shrink.jpg" width="400" alt="my alt text"/>
   <figcaption>Thermistor leads with shrink tube.</figcaption>
 </figure>
+<br>
 
 Encase the first few cm in more shrink tube, and seal the bead with epoxy to keep water out.
 
