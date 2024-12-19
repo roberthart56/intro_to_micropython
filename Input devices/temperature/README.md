@@ -20,3 +20,26 @@ The voltage at the middle of the voltage divider is read by one of the microcont
   <figcaption>Thermistor circuit on a breadboard attached to a pin of a microcontroller module.</figcaption>
 </figure>
 
+
+### Here is one way to use the thermistor to make a practical thermometer that can be put in water.  First, solder wire leads to the thermistor wires.
+
+<figure>
+  <img src="./images/Th_solder.jpg" width="400" alt="my alt text"/>
+  <figcaption>Thermistor soldered.</figcaption>
+</figure>
+
+Cover the leads in heat shrink tubing to protect from shorting together.
+
+<figure>
+  <img src="./images/Th_shrink.jpg" width="400" alt="my alt text"/>
+  <figcaption>Thermistor leads with shrink tube.</figcaption>
+</figure>
+
+Encase the first few cm in more shrink tube, and seal the bead with epoxy to keep water out.
+
+<figure>
+  <img src="./images/Th_epoxy.jpg" width="400" alt="my alt text"/>
+  <figcaption>Thermistor encased in shrink tube with epoxy on the tip.</figcaption>
+</figure>
+
+
