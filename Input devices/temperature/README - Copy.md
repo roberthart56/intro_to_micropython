@@ -7,7 +7,8 @@ The voltage at the middle of the voltage divider is read by one of the microcont
 
 
 
-![alt-text-1](./images/temperature_circuit.jpg "title-1" ) ![alt-text-2](./images/temperature_circuit.jpg "title-2")
+
+![alt-text-1](./images/temperature_circuit.jpg "title-1" =50%x ) ![alt-text-2](./images/temperature_circuit.jpg "title-2" =50%x)
 
  
 
