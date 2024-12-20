@@ -6,9 +6,9 @@ The voltage at the middle of the voltage divider is read by one of the microcont
 
 
 <p float="left">
-  <img src="./images/temperature_circuit.jpg" width="200" /><figcaption>Thermistor soldered.</figcaption>
-  <img src="./images/temperature_circuit.jpg" width="200" /><figcaption>Thermistor soldered.</figcaption>
-  <img src="./images/temperature_circuit.jpg" width="200" /><figcaption>Thermistor soldered.</figcaption>
+  <img src="./images/temperature_circuit.jpg" width="200" />
+  <img src="./images/temperature_circuit.jpg" width="200" />  
+  <img src="./images/temperature_circuit.jpg" width="200" />
 </p>
 
 
