@@ -43,7 +43,7 @@ Cover the leads in heat shrink tubing to protect from shorting together.
 
 <br><br>
 
-Encase the first few cm in more shrink tube, and seal the bead with epoxy to keep water out.
+Encase the first few cm in more shrink tube, and seal the bead with epoxy to keep water out.  If I wanted to make this a more reliable setup, I could get rid of the breadboard, and solder wires and resistors directly to the microcontroller module.  Then I could make an enclosure to keep it all safe.  Maybe even incorporate a display and a battery to make it portable.  See the OLED in the kit as a possible device for displaying results.
 
 <figure>
   <img src="./images/Th_epoxy.jpg" width="400" alt="my alt text"/>
@@ -75,7 +75,7 @@ How could I turn the adc data into a temperature?  Depends on how precise I want
 
 You can find a [mathematical model](https://eepower.com/resistor-guide/resistor-types/ntc-thermistor/#) for the resistance as a function of temperature, and look at the [datasheet](https://www.cantherm.com/wp-content/uploads/2017/05/cantherm_mf52_1.pdf) for the thermistor to get the required constants for the equation.  There are tutorials like [this one from Sparkfun](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/) on how somebody thinks it should be done.  The bottom line is that you need to make sure by measuring that your thermometer is doing as well as you need it to do!
 
-(https://eepower.com/resistor-guide/resistor-types/ntc-thermistor/#)
+
 
 
 
