@@ -27,8 +27,7 @@ Here is one way to use the thermistor to make a practical thermometer that can b
 
 <figure>
   <img src="./images/Th_solder.jpg" width="400" alt="my alt text"/>
-  <figcaption>Thermistor soldered.</figcaption><img src="./images/Th_shrink.jpg" width="400" alt="my alt text"/>
-  <figcaption>Thermistor leads with shrink tube.</figcaption>
+  <figcaption>Thermistor soldered.</figcaption>
 </figure>
 
 <br><br>
