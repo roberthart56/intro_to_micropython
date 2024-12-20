@@ -6,9 +6,9 @@ The voltage at the middle of the voltage divider is read by one of the microcont
 
 
 <p float="left">
-  <img src="./images/temperature_circuit.jpg" width="200" />
-  <img src="./images/temperature_circuit.jpg" width="200" />  
-  <img src="./images/temperature_circuit.jpg" width="200" />
+  <img src="./images/temperature_circuit.jpg" width="30%" />
+  <img src="./images/temperature_circuit.jpg" width="30%" />  
+  <img src="./images/temperature_circuit.jpg" width="30%" />
 </p>
 
 
