@@ -50,4 +50,16 @@ Encase the first few cm in more shrink tube, and seal the bead with epoxy to kee
   <figcaption>Thermistor encased in shrink tube with epoxy on the tip.</figcaption>
 </figure>
 
+<figure>
+  <img src="./images/calibration_pic.jpg" width="400" alt="my alt text"/>
+  <figcaption>Calibration setup.</figcaption>
+</figure>
+
+
+<figure>
+  <img src="./images/calibration_nb.jpg" width="700" alt="my alt text"/>
+  <figcaption>Notes and plot of calibration data.</figcaption>
+</figure>
+
+
 
