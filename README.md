@@ -26,8 +26,7 @@ Introduction to micropython on the RP2040 and ESP32, particularly the xiao modul
 
 
 
-
-### Simple instructions for using Thonny to program.
+### Simple instructions for using Thonny to program.  [Good tutorial here.](https://randomnerdtutorials.com/getting-started-thonny-micropython-python-ide-esp32-esp8266/)
 * Connect your device to Thonny.
 * Put code in Thonny window.
 * Edit as needed.
