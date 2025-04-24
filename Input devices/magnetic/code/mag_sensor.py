@@ -11,4 +11,4 @@ mag_sensor = ADC(Pin(27))		#name and create the object to
 while True:
     print(mag_sensor.read_u16())		#do a 16-bit read (0-65535)
                                     #and print the result.
-    sleep(0.01)
+    sleep(0.1)
