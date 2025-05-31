@@ -1,1 +1,1 @@
-temperature=30
+temperature=50
