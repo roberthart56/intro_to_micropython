@@ -1,1 +1,1 @@
-temperature=5
+temperature=30
