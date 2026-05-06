@@ -17,11 +17,10 @@ while True:
     for i in range(Num_pix):
         pixels[i] = colors[i]
         
-    for i in range(Num_pix):
+    pixels.write()
+        
+    for i in range(Num_pix):		#change each pixel a small amount		
         colors[i] = pixels[i][0]+1,pixels[i][1]-2,pixels[i][2]+3
         
-        
-    pixels.write()
-
     sleep(0.1)
 
